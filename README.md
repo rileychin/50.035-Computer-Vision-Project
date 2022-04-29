@@ -6,3 +6,5 @@ https://www.kaggle.com/c/plant-pathology-2021-fgvc8
 2. 
 
 # Will update github later on the actual performance
+# Report
+For more details, kindly find our report in: https://docs.google.com/document/d/1OxNGD4EbSToRdy_yenaKPXWw0HiqFEIo4gJsMZm2OH8/edit?usp=sharing
